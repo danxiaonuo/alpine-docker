@@ -17,6 +17,8 @@ ENV LANG=$LANG
 ARG PKG_DEPS="\
       zsh \
       bash \
+      bash-doc \
+      bash-completion \
       bind-tools \
       iproute2 \
       ipset \
